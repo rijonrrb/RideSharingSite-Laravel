@@ -1,0 +1,19 @@
+.container{
+
+}
+.header{
+   
+}
+.header p, .header img{
+    display: inline;
+    font-size: 1.3rem;
+    padding: 5px;
+}
+
+.chat-body{
+
+    min-height: 70vh;
+    margin-bottom: 10px;
+    padding: 5px;
+    margin-top: 10px;
+}
